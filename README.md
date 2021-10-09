@@ -2,7 +2,7 @@
 
 The code implements the local regularization method for deblurring in 2 dimensions. The paper it's based on can be found here:
 
-https://users.math.msu.edu/users/lamm/Preprints/Cui_Lamm_Scofield_images/paper.pdf . [[1]](#1)
+https://users.math.msu.edu/users/lamm/Preprints/Cui_Lamm_Scofield_images/paper.pdf .
 
 The contents of this repository were created by a team of students at the 2016 Mathematics REU at Willamette. I haven't touched any of this in years. 
 
