@@ -2,7 +2,7 @@
 
 The code implements the local regularization method for deblurring in 2 dimensions. The paper it's based on can be found here:
 
-https://users.math.msu.edu/users/lamm/Preprints/Cui_Lamm_Scofield_images/paper.pdf
+https://users.math.msu.edu/users/lamm/Preprints/Cui_Lamm_Scofield_images/paper.pdf . [[1]](#1)
 
 The contents of this repository were created by a team of students at the 2016 Mathematics REU at Willamette. I haven't touched any of this in years. 
 
@@ -20,3 +20,7 @@ The second image is a Gaussian blur of the real image with some added Poison noi
 The third image is the attempted reconstruction of the original image. This is the output of the local regularization algorithm. Our measure of success is how closely this image resembles the first image. In particular, we are looking at the "sharpness" of the reconstructed image.
 
 ![reconstruction](https://user-images.githubusercontent.com/92210470/136656004-6d462a58-0a3f-455d-8313-730ebb83436f.jpg)
+
+## References
+<a id="1">[1]</a> 
+C. Cui, P.K. Lamm and T.L. Scofield, *Local regularization for n-dimensional integral equations  with applications to image processing*, Inverse Problems **23** (2007), 1611-1633.
