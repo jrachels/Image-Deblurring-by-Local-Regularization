@@ -17,6 +17,6 @@ The second image is a Gaussian blur of the real image with some added Poison noi
 ![noisyblurred](https://user-images.githubusercontent.com/92210470/136655988-28f07dce-4822-4d22-a2fd-980c355f3108.jpg)
 
 
-The third image is the attempted reconstruction of the original image. This is the output of the local regularization algorithm. Our measure of success is how closely this image resembles the first image.
+The third image is the attempted reconstruction of the original image. This is the output of the local regularization algorithm. Our measure of success is how closely this image resembles the first image. In particular, we are looking at the "sharpness" of the reconstructed image.
 
 ![reconstruction](https://user-images.githubusercontent.com/92210470/136656004-6d462a58-0a3f-455d-8313-730ebb83436f.jpg)
