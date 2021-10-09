@@ -23,4 +23,4 @@ The third image is the attempted reconstruction of the original image. This is t
 
 ## References
 <a id="1">[1]</a> 
-C. Cui, P.K. Lamm and T.L. Scofield, *Local regularization for n-dimensional integral equations  with applications to image processing*, Inverse Problems **23** (2007), 1611-1633.
+C. Cui, P.K. Lamm and T.L. Scofield, *Local regularization for n-dimensional integral equations  with applications to image processing*, Inverse Problems **23** (2007), 1611-1633. 
